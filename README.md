@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 images of my app:
 
+<img width="355" alt="Screenshot 2024-07-02 at 4 45 38 PM" src="https://github.com/komalsingh22/meal_app/assets/127752808/ece1c424-2024-44f8-b9cf-8eca2469ed6b">
